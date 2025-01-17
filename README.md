@@ -29,13 +29,7 @@ This repository provides a comprehensive pipeline, from dataset preparation to m
    git clone https://github.com/yourusername/invertible-image-compression.git
    cd invertible-image-compression
    ```
-
-2. Install required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up Kaggle API key:
+2. Set up Kaggle API key:
    ```bash
    !mkdir ~/.kaggle
    !mv kaggle.json ~/.kaggle/
