@@ -27,7 +27,7 @@ This repository provides a comprehensive pipeline, from dataset preparation to m
 1. Clone the repository:
    ```bash
    git clone https://github.com/SunilKumar005/Invertible_Image_Compression.git
-   cd invertible-image-compression
+   cd Invertible_Image_Compression
    ```
 2. Set up Kaggle API key:
    ```bash
