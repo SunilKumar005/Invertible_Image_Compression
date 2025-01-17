@@ -19,7 +19,7 @@ This repository provides a comprehensive pipeline, from dataset preparation to m
 ## Prerequisites
 - Python 3.8 or higher
 - Kaggle account with an API key (`kaggle.json`)
-- Libraries: PyTorch, NumPy, OpenCV, Scikit-image, Matplotlib, and others specified in `requirements.txt`.
+- Libraries: PyTorch, NumPy, OpenCV, Scikit-learn, Matplotlib, and others .
 
 ---
 
