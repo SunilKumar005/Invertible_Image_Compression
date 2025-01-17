@@ -1,4 +1,4 @@
-###Invertible Image Compression
+# Invertible Image Compression
 
 ## Overview
 Invertible Image Compression (IIC) is a deep learning-based approach designed for efficient image compression while ensuring lossless or near-lossless reconstruction. The model leverages invertible neural networks, discrete wavelet transforms (DWT), and high-pass component estimators to retain essential image details, achieving high fidelity in image restoration.
